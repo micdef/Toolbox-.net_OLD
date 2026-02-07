@@ -7,6 +7,8 @@ x86/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+# Exception pour le dossier source Toolbox/Logs
+!Toolbox/[Ll]ogs/
 
 # Visual Studio
 .vs/
